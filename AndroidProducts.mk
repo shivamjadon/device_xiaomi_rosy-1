@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/corvus_rosy.mk
+    $(LOCAL_DIR)/ssos_rosy.mk
     
 COMMON_LUNCH_CHOICES := \
-    corvus_rosy-user \
-    corvus_rosy-userdebug \
-    corvus_rosy-eng
+    ssos_rosy-user \
+    ssos_rosy-userdebug \
+    ssos_rosy-eng
